@@ -1,8 +1,22 @@
 {
-  "name": "leetcode_js",
+  "name": "day-1--30-days-of-leetcode-javascript-challenge",
   "version": "1.0.0",
-  "main": "index.js",
-  "license": "MIT",
+  "description": "",
+  "main": "Day-2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Samsuddin-Shohan/Day-1---30-Days-of-Leetcode-JavaScript-Challenge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Samsuddin-Shohan/Day-1---30-Days-of-Leetcode-JavaScript-Challenge/issues"
+  },
+  "homepage": "https://github.com/Samsuddin-Shohan/Day-1---30-Days-of-Leetcode-JavaScript-Challenge#readme",
   "devDependencies": {
     "nodemon": "^2.0.22"
   }
