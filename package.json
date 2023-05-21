@@ -2,7 +2,7 @@
   "name": "day-1--30-days-of-leetcode-javascript-challenge",
   "version": "1.0.0",
   "description": "",
-  "main": "Day-5.js",
+  "main": "Day-6.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
